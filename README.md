@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/school/rocketseat/"><img  src="https://img.shields.io/badge/-Rocketseat-783BF9?&style=for-the-badge&logoColor=fff&logo=LinkedIn&logoWidth=25"/></a>
-  <a href="https://www.linkedin.com/in/daniele-leão-evangelista-5540ab25/"><img  src="https://img.shields.io/badge/Thiago%20Guedes-blue?&style=for-the-badge&logoColor=fff&logo=LinkedIn&logoWidth=25"/></a>
+  <a href="https://www.linkedin.com/in/thiago-bergami-guedes/"><img  src="https://img.shields.io/badge/Thiago%20Guedes-blue?&style=for-the-badge&logoColor=fff&logo=LinkedIn&logoWidth=25"/></a>
 </p>
 <br><br>  
 
